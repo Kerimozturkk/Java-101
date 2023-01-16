@@ -18,5 +18,13 @@ public class Main {
             System.out.println("power of 5: "+(i));
         }
 
+//        System.out.println("------");
+//        int powOf6 = 1;
+//        while(top > powOf6){
+//            System.out.println(powOf6);
+//            powOf6 *= 6;
+//        }
+
+
     }
 }
